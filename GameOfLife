@@ -88,3 +88,51 @@ public class GameOfLife
 		}
 	}
 }
+
+
+OUTPUT:
+E:\javaprograms>javac GameOfLife.java
+
+E:\javaprograms>java GameOfLife
+Enter No Of Rows and Columns:
+5
+5
+Original Generation
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+***..
+.....
+*.***
+...**
+...*.
+
+Next Generation
+.....
+.....
+..*..
+.....
+.....
+
